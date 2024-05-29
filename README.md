@@ -46,7 +46,7 @@ This project is licensed under the MIT License.
 
 Credits
 
-Special thanks to [Your Name] for their help in developing this script.
+Special thanks to my D&D group for sticking through my game and for their help in developing this script.
 
  
  

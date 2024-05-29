@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Abandoned Child",
+    "description": "Was left at an orphanage as an infant. Grew up with limited opportunities."
+  },
+  {
+    "name": "Apprentice Gone Wrong",
+    "description": "Failed to impress a master and was forced to leave, now seeking revenge or redemption."
+  },
+  {
+    "name": "Bandit's Heir",
+    "description": "Inherited a life of crime from parents who were notorious bandits."
+  },
+  {
+    "name": "Beggar's Life",
+    "description": "Lived on the streets as a child, learned to survive by any means necessary."
+  },
+  {
+    "name": "Blacksmith's Apprentice",
+    "description": "Learned trade from a family friend, now runs their own shop."
+  },
+  {
+    "name": "Brigand's Wife",
+    "description": "Married into a life of crime, seeking a way out or revenge."
+  },
+  {
+    "name": "Burglar's Apprentice",
+    "description": "Trained by a mentor who taught them everything they know."
+  },
+  {
+    "name": "Blackhearted Mercenary",
+    "description": "Fought for coin, lost their sense of purpose."
+  },
+  {
+    "name": "Captive Taken in War",
+    "description": "Was captured during a conflict and held as a prisoner."
+  },
+  {
+    "name": "Cooking Accident",
+    "description": "Had an apprenticeship ruined by a kitchen fire."
+  },
+  {
+    "name": "Con Artist's Apprentice",
+    "description": "Learned the art of deception from a master."
+  },
+  {
+    "name": "Court Jester",
+    "description": "Used humor to survive at court, now seeks new opportunities."
+  },
+  {
+    "name": "Crime Lord's Underling",
+    "description": "Rises through ranks of organized crime."
+  },
+  {
+    "name": "Cunning Hunter",
+    "description": "Survived by their wits and hunting prowess."
+  },
+  {
+    "name": "Drunkard's Offspring",
+    "description": "Grew up watching parents waste away, now seeks a better life."
+  },
+  {
+    "name": "Former Slave",
+    "description": "Freed from bondage, seeking new opportunities and freedom."
+  },
+  {
+    "name": "Gypsy's Apprentice",
+    "description": "Learned the art of thievery and deception from a traveling performer."
+  },
+  {
+    "name": "Heir to a Failing Business",
+    "description": "Inherited a struggling enterprise, now seeks to turn it around."
+  },
+  {
+    "name": "Homeless Veteran",
+    "description": "Fought in wars, struggled to adjust to civilian life."
+  },
+  {
+    "name": "Illegitimate Child",
+    "description": "Born out of wedlock, seeking acceptance and recognition."
+  },
+  {
+    "name": "Indentured Servant",
+    "description": "Sold into servitude for a period of time."
+  },
+  {
+    "name": "Innkeeper's Daughter",
+    "description": "Grew up running an inn, now seeks adventure beyond the walls."
+  },
+  {
+    "name": "Journeyman Carpenter",
+    "description": "Learned the trade from an experienced mentor."
+  },
+  {
+    "name": "Rogue's Apprentice",
+    "description": "Learned from a master thief, now seeks to surpass them."
+  },
+  {
+    "name": "Runaway Slave",
+    "description": "Fled their plantation or estate seeking freedom."
+  },
+  {
+    "name": "Sailor's Widow",
+    "description": "Lost spouse at sea, seeking a new start."
+  },
+  {
+    "name": "Shipwreck Survivor",
+    "description": "Was the only one to survive a shipwreck, now seeks to rebuild their life."
+  },
+  {
+    "name": "Street Performer",
+    "description": "Survived by their wits and performance skills."
+  },
+  {
+    "name": "Thief's Apprentice",
+    "description": "Learned from a master thief, now seeks to surpass them."
+  },
+  {
+    "name": "Tinkerer's Apprentice",
+    "description": "Learned the art of repairing and creating gadgets from a mentor."
+  },
+  {
+    "name": "Traveling Merchant",
+    "description": "Grew up on the road, selling goods and supplies."
+  },
+  {
+    "name": "Undesired Child",
+    "description": "Was rejected or abandoned by their family due to being 'unwanted'."
+  }
+]
